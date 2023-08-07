@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.facebook-icon {
+    font-size: 16px; /* Adjust the size value as needed */
+  }
